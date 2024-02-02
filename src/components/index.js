@@ -5,6 +5,13 @@ import Container from "./container/Container";
 import Logo from "./Logo";
 import Select from "./Select"
 import PostCard from "./PostCard";
+import Input from "./Input";
+import Button from "./Button";
+import AuthLayout from "./AuthLayout";
+import Signup from "./Signup"
+import PostForm from "./post-form/PostForm"
+import Login from "./Login"
+import RTE from "./RTE"
 
 export {
     Header,
@@ -13,5 +20,12 @@ export {
     LogoutBtn,
     Container,
     Select,
-    PostCard
+    PostCard,
+    Input,
+    AuthLayout,
+    Button,
+    Signup,
+    PostForm,
+    Login,
+    RTE,
 }
